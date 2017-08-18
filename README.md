@@ -1,2 +1,2 @@
 # UsingWaitableTimer
-App creates WaitableTimer
+ѕриложение создает WaitableTimer с заданными параметрами.
